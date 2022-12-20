@@ -12,7 +12,7 @@
 
 
 ---
-<h2 align="left"><b>Language and Tools Skills:</b></h2>
+<h2 align="left"><b>Badges</b></h2>
 <div style="display: inline_block"><br>
   <p align="left">
     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80">
@@ -26,7 +26,7 @@
 <img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif" width="600" height="200"/>
 </div>
 <br>
-<h2 align="left"><b>Language and Tools Skills:</b></h2>
+<h2 align="left"><b>Language and Tools Skills</b></h2>
 <div style="display: inline_block"><br>
   <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

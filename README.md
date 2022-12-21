@@ -18,6 +18,9 @@
     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80">
       <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=100 height=100>
     </a>
+    <a href="https://skillshop.exceedlms.com/student/award/a4EKLwQBQKkH2AVTd2PvghnJ">
+      <img src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/530/large/analytics_master_achievement.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=yW3W1Jg1G2dMpDmYaq5tXxsVtrs%3D&Expires=1671607202" width=100 height=100>
+    </a>
   </p>
 </div>
 

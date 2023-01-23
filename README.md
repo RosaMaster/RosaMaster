@@ -142,16 +142,8 @@
 <!-- MY TROPHY -->
 <h2 align="left"><b>My Trophy</b></h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rosamaster&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rosamaster&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
   </p>
-</p>
-
-
----
-<!-- VISITORS COUNT -->
-<h2 align="left"><b>RosaMaster Visitors Count</b></h2>
-<p align="rigth"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/rosamaster/count.svg" />
 </p>
 
 
@@ -164,13 +156,9 @@
       <td>
         <a href="https://www.instagram.com/rosa_x_master" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       </td>
-      <td></td>
-      <td></td>
       <td>
         <a href = "mailto:rosa.master@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       </td>
-      <td></td>
-      <td></td>
       <td>
         <a href="https://www.linkedin.com/in/eduardo-rosa-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       </td>

@@ -40,6 +40,11 @@
     </td>
     -->
     <td>
+      <a alt="analytics">
+        <img src="img/doti_engenheiro_de_automacao.png" width=110 height=100>
+      </a>
+    </td>
+    <td>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud">
         <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=100 height=100>
       </a>
@@ -50,8 +55,13 @@
       </a>
     </td>
     <td>
-      <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="privacy">
+      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
         <img src="https://brasilopenbadge.com.br/badge/3208.png?tam=200" width=100 height=100>
+      </a>
+    </td>
+    <td>
+      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python">
+        <img src="https://brasilopenbadge.com.br/badge/3018.png?tam=200" width=100 height=100>
       </a>
     </td>
     <td>

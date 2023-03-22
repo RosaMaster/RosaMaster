@@ -40,8 +40,8 @@
     </td>
     -->
     <td>
-      <a alt="analytics">
-        <img src="img/doti_engenheiro_de_automacao.png" width=110 height=100>
+      <a alt="engenner_doti">
+        <img src="img/doti_engenheiro_de_automacao.png" width=100 height=100>
       </a>
     </td>
     <td>
@@ -67,6 +67,11 @@
     <td>
       <a href="https://www.credly.com/badges/da7daa9d-2ccb-4abe-a6e8-7705ed860baa" alt="LLL">
         <img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore">
+        <img src="img/ibm-z-xplore-concepts.png" width=115 height=100>
       </a>
     </td>
   </tr>

@@ -20,9 +20,9 @@
 >
 > - 🔰🔰🔰 Beginning of this journey in programming: **Junho/2021** 🔰🔰🔰.
 >
-> - 💎💎💎 Titles: Graduated **Mechatronics Technician** and **System Developer**, studying for a bachelor's degree in **Engeneer Production & Automation**, future **DEV JR** 💎💎💎.
+> - 💎💎💎 Titles: Graduated **Engeneer Production & Automation**, **Mechatronics Technician** and **System Developer**, studying for a bachelor's degree in **Data Science** 💎💎💎.
 >
-> - 💥💥💥 **Web Designer** 💥💥💥.
+> - 💥💥💥 **Web Designer** | **Tech Writer** | **Data Analyst** | **DEV**💥💥💥.
 
 
 ---
@@ -51,12 +51,12 @@
     </td>
     <td>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023">
-        <img src="img/oracle_foundation_associate_2023.png" width=130 height=110>
+        <img src="img/oracle_foundation_associate_2023.png" width=120 height=110>
       </a>
     </td>
     <td>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021">
-        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=120 height=100>
+        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=110 height=100>
       </a>
     </td>
     </tr>
@@ -107,6 +107,7 @@
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![LinguagemC](https://img.shields.io/badge/-linguagem_c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 <!-- OUTROS CONHECIMENTOS -->

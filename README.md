@@ -45,10 +45,22 @@
       </a>
     </td>
     <td>
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud">
-        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=100 height=100>
+      <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=110>
       </a>
     </td>
+    <td>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023">
+        <img src="img/oracle_foundation_associate_2023.png" width=130 height=110>
+      </a>
+    </td>
+    <td>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021">
+        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=120 height=100>
+      </a>
+    </td>
+    </tr>
+    <tr>
     <td>
       <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="analytics">
         <img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=100 height=100>
@@ -69,6 +81,8 @@
         <img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100>
       </a>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore">
         <img src="img/ibm-z-xplore-concepts.png" width=115 height=100>

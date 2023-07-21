@@ -97,7 +97,7 @@
 ---
 <!-- GIF CONNECTING -->
 <div align="center">
-<img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif" width="700" height="180"/>
+<img src="https://media1.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif?cid=790b7611xqosnm9nlxqpxzgq5tzc91h4f5o2n6e10sib5d6v&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="400" height="150"/>
 </div>
 <br>
 

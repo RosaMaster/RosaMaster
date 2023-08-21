@@ -1,3 +1,11 @@
+<!-- LINKS 
+STACKS          https://github.com/Ileriayo/markdown-badges#badges
+ICONS           https://github.com/get-icon/geticon
+EMOJI           https://www.webfx.com/tools/emoji-cheat-sheet/
+ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
+-->
+
+
 <!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
 
@@ -160,9 +168,12 @@
 <!-- DASHBOARDS -->
 <div align="center">
   <br>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&layout=compact&langs_count=20&theme=gotham)
+
   <a href="https://github.com/RosaMaster">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&layout=compact&langs_count=7&theme=gotham"/>
     <img width="72%" heigt="72%" src="https://streak-stats.demolab.com?user=rosamaster&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=258F76&ring=98D0CD&currStreakNum=98D0CD&fire=258F76&currStreakLabel=258F76&dates=258F76&sideNums=98D0CD&sideLabels=98D0CD&border=B8B8B9" alt="rosamaster" />
   </a>
 </div>

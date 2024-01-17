@@ -105,7 +105,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 ---
 <!-- GIF CONNECTING -->
 <div align="center">
-<img src="https://media1.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif?cid=790b7611xqosnm9nlxqpxzgq5tzc91h4f5o2n6e10sib5d6v&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="400" height="150"/>
+<img src="https://media1.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif?cid=790b7611xqosnm9nlxqpxzgq5tzc91h4f5o2n6e10sib5d6v&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="340" height="128"/>
 </div>
 <br>
 
@@ -162,7 +162,14 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 <!-- ESTUDANDO NESSE MOMENTO -->
 ### Studying in this moment:
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor=A435F0)&nbsp;
+![DataScience](https://img.shields.io/badge/BACHAREL-Data_Science_--_[2025]-blue)&nbsp;
 
+
+<!-- TÍTULOS FORMADOS -->
+### Titles -> Study Completed:
+![EngeneerProduction&Automation](https://img.shields.io/badge/BACHAREL-Engeneer_Production_&_Automation_--_[2023]-purple)&nbsp;<br>
+![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-System_Developer_--_[2022]-darkorange)&nbsp;<br>
+![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-Mechatronics_--_[2011]-darkorange)&nbsp;<br>
 
 ---
 <!-- DASHBOARDS -->

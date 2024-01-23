@@ -198,7 +198,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
   [![RosaMaster Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&show_icons=true&layout=compact&langs_count=10&theme=swift#gh-light-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-light-mode-only)
 
   <a href="https://github.com/RosaMaster">
-    <img width="72%" heigt="72%" src="https://streak-stats.demolab.com?user=rosamaster&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=258F76&ring=98D0CD&currStreakNum=98D0CD&fire=258F76&currStreakLabel=258F76&dates=258F76&sideNums=98D0CD&sideLabels=98D0CD&border=B8B8B9" alt="rosamaster" />
+    <img width="72%" heigt="72%" src="https://streak-stats.demolab.com?user=rosamaster&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=258F76&ring=98D0CD&currStreakNum=98D0CD&fire=258F76&currStreakLabel=258F76&dates=258F76&sideNums=98D0CD&sideLabels=98D0CD&border=B8B8B9" alt="rosamaster" />
   </a>
 </div>
 

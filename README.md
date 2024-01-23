@@ -1,6 +1,7 @@
 <!-- LINKS 
 STACKS          https://github.com/Ileriayo/markdown-badges#badges
 ICONS           https://github.com/get-icon/geticon
+INONS           https://simpleicons.org/?q=git+
 EMOJI           https://www.webfx.com/tools/emoji-cheat-sheet/
 ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 -->
@@ -17,6 +18,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
   <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
 </h1>
 
+---
 
 <!-- PROFILE VIEWS -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>
@@ -96,6 +98,16 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
         <img src="img/ibm-z-xplore-concepts.png" width=115 height=100>
       </a>
     </td>
+    <td>
+      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
+        <img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=465566726" width=100 height=100>
+      </a>
+    </td>
+    <td>
+      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
+        <img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100>
+      </a>
+    </td>
   </tr>
   </table>
   </p>
@@ -162,7 +174,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 <!-- ESTUDANDO NESSE MOMENTO -->
 ### Studying in this moment:
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor=A435F0)&nbsp;
-![DataScience](https://img.shields.io/badge/BACHAREL-Data_Science_--_[2025]-blue)&nbsp;
+![DataScience](https://img.shields.io/badge/BACHAREL-Data_Science_--_[2026]-blue)&nbsp;
 
 
 <!-- TÍTULOS FORMADOS -->
@@ -176,17 +188,23 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 <div align="center">
   <br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham)
+  <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&theme=dark&show_icons=true)-->
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&layout=compact&langs_count=20&theme=gotham)
+  [![RosaMaster GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-dark-mode-only)
+  [![RosaMaster GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-light-mode-only)
+
+  [![RosaMaster Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&show_icons=true&layout=compact&langs_count=10&theme=gotham#gh-dark-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-dark-mode-only)
+  [![RosaMaster Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&show_icons=true&layout=compact&langs_count=10&theme=swift#gh-light-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-light-mode-only)
 
   <a href="https://github.com/RosaMaster">
     <img width="72%" heigt="72%" src="https://streak-stats.demolab.com?user=rosamaster&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=258F76&ring=98D0CD&currStreakNum=98D0CD&fire=258F76&currStreakLabel=258F76&dates=258F76&sideNums=98D0CD&sideLabels=98D0CD&border=B8B8B9" alt="rosamaster" />
   </a>
 </div>
 
-
 ---
+---
+
 <!-- MY TROPHY -->
 <h2 align="left"><b>My Trophy</b></h2>
   <p align="center">
@@ -194,7 +212,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
   </p>
 </p>
 
-
+---
 ---
 <!-- FOOTER -->
 <br>
@@ -209,6 +227,9 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
       </td>
       <td>
         <a href="https://www.linkedin.com/in/eduardo-rosa-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      </td>
+      <td>
+        <a href="https://github.com/RosaMaster" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
       </td>
     </tr>
   </table>

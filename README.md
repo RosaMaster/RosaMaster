@@ -13,26 +13,37 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 
 <!-- TITLE -->
 <h1 align="center" alt="title">
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
     <b> WELCOME TO MY PROFILE </b>
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
 </h1>
 
 ---
 
-<!-- PROFILE VIEWS -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>
+<!-- PROFILE VIEWS 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>-->
 
 
----
 <!-- DESCRIPTION PROFILE -->
-> - Hi 👋, I'm Eduardo Rosa, I'm **developer** backend from Brazil.
+> Hello, I'm Eduardo Rosa, I'm **developer** Back-end from  Brazil
 >
-> - 🔰🔰🔰 Beginning of this journey in programming: **Junho/2021** 🔰🔰🔰.
+> 🔰 🔰 🔰 Beginning of this journey in programming: **Junho/2021** 🔰 🔰 🔰
 >
-> - 💎💎💎 Titles: Graduated **Engeneer Production & Automation**, **Mechatronics Technician** and **System Developer**, studying for a bachelor's degree in **Data Science** 💎💎💎.
+> 💥 💥 💥 **Web Designer** | **Tech Writer** | **Data Analyst** | **DEV**💥 💥 💥
 >
-> - 💥💥💥 **Web Designer** | **Tech Writer** | **Data Analyst** | **DEV**💥💥💥.
+>
+>
+> | ♠ **TITLES**                                | **LOCAL**          | **Duration** |
+> | ------------------------------------------- | ------------------ | ------------ |
+> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            | 5 Years      |
+> | ² Bachelor Data Science                     | UNIVESP            | 4 Years      |
+> | ³ Bachelor in Information Technology        | UNIVESP            | 3 Years      |
+> | Mechatronics Technician                     | Centro Paula Souza | 2 Years      |
+> | System Developer Technician                 | Centro Paula Souza | 1,5 Years    |
 
 
 ---

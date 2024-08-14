@@ -14,7 +14,7 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 <!-- TITLE -->
 <h1 align="center" alt="title">
   
-    <b>    W  E  L  C  O  M  E    </b>
+    <head>    W  E  L  C  O  M  E    </head>
 
 </h1>
 
@@ -42,96 +42,25 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 > | System Developer Technician                 | Centro Paula Souza | 1,5 Years      |
 
 
----
-<!-- BADGES -->
-<h2 align="left"><b>Badges</b></h2>
-<div style="display: inline_block" alt="badge_rosamaster">
-  <p align="left">
-  <table>
-  <tr>
-    <!--
-    <td>
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80">
-        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=100 height=100>
-      </a>
-    </td>
-    -->
-    <td>
-      <a alt="engenner_doti">
-        <img src="img/doti_engenheiro_de_automacao.png" width=100 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner">
-        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=110>
-      </a>
-    </td>
-    <td>
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023">
-        <img src="img/oracle_foundation_associate_2023.png" width=120 height=110>
-      </a>
-    </td>
-    <td>
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021">
-        <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=110 height=100>
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-      <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="analytics">
-        <img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=100 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
-        <img src="https://brasilopenbadge.com.br/badge/3208.png?tam=200" width=100 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python">
-        <img src="https://brasilopenbadge.com.br/badge/3018.png?tam=200" width=100 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/da7daa9d-2ccb-4abe-a6e8-7705ed860baa" alt="LLL">
-        <img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100>
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-      <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore">
-        <img src="img/ibm-z-xplore-concepts.png" width=115 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
-        <img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=465566726" width=100 height=100>
-      </a>
-    </td>
-    <td>
-      <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy">
-        <img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100>
-      </a>
-    </td>
-  </tr>
-  </table>
-  </p>
-</div>
+## Badges
 
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| <img src="img/doti_engenheiro_de_automacao.png" width=100 height=100> | <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=110></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023"><img src="img/oracle_foundation_associate_2023.png" width=120 height=110></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021"><img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=110 height=100></a> | <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="analytics"><img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=100 height=100></a> |
+| <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3208.png?tam=200" width=100 height=100></a>  | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python"><img src="https://brasilopenbadge.com.br/badge/3018.png?tam=200" width=100 height=100></a> | <a href="https://www.credly.com/badges/da7daa9d-2ccb-4abe-a6e8-7705ed860baa" alt="LLL"><img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=115 height=100></a> | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=465566726" width=100 height=100></a>  |
+| <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100></a>  |  |
 
 <br>
 
 <!-- GIF CONNECTING -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="80" width="80" />
 </div>
 <br>
 

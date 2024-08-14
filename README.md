@@ -8,18 +8,14 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 
 
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
 
 <!-- TITLE -->
 <h1 align="center" alt="title">
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
-    <b> WELCOME TO MY PROFILE </b>
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
-  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
-  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="35" width="35" />
+  
+    <b>    W  E  L  C  O  M  E    </b>
+
 </h1>
 
 ---
@@ -37,19 +33,19 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 >
 >
 >
-> | ♠ **TITLES**                                | **LOCAL**          | **Duration** |
-> | ------------------------------------------- | ------------------ | ------------ |
-> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            | 5 Years      |
-> | ² Bachelor Data Science                     | UNIVESP            | 4 Years      |
-> | ³ Bachelor in Information Technology        | UNIVESP            | 3 Years      |
-> | Mechatronics Technician                     | Centro Paula Souza | 2 Years      |
-> | System Developer Technician                 | Centro Paula Souza | 1,5 Years    |
+> | ♠ **TITLES**                                | ♠ **LOCAL**        | ♠ **Duration** |
+> | ------------------------------------------- | ------------------ | -------------- |
+> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            | 5 Years        |
+> | ² Bachelor Data Science                     | UNIVESP            | 4 Years        |
+> | ³ Bachelor in Information Technology        | UNIVESP            | 3 Years        |
+> | Mechatronics Technician                     | Centro Paula Souza | 2 Years        |
+> | System Developer Technician                 | Centro Paula Souza | 1,5 Years      |
 
 
 ---
 <!-- BADGES -->
 <h2 align="left"><b>Badges</b></h2>
-<div style="display: inline_block" alt="badge_rosamaster"><br>
+<div style="display: inline_block" alt="badge_rosamaster">
   <p align="left">
   <table>
   <tr>
@@ -125,10 +121,17 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 </div>
 
 
----
+<br>
+
 <!-- GIF CONNECTING -->
 <div align="center">
-<img src="https://media1.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif?cid=790b7611xqosnm9nlxqpxzgq5tzc91h4f5o2n6e10sib5d6v&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="340" height="128"/>
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
+  <img src="https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b952xuitlvo6axo687vy4rjofpjfdzkg48z9yemau78p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Waving hand animated gif" height="65" width="65" />
 </div>
 <br>
 

@@ -26,21 +26,7 @@ GENERATE        https://profile-readme-generator.com/result
 </div>
 
 
-<img src="https://raw.githubusercontent.com/RosaMaster/RosaMaster/output/snake.svg" alt="Snake animation" />
 
-
-![Snake animation](https://github.com/RosaMaster/blob/output/github-contribution-grid-snake.svg)
-
-
-[![readme](https://github-readme-stats.vercel.app/app/api/pin/?username=RosaMaster&repo=RosaMaster&theme=react)](https://github.com/RosaMaster/RosaMaster)
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -54,11 +40,11 @@ GENERATE        https://profile-readme-generator.com/result
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
 
 
-<!-- PROFILE VIEWS -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>
+
+<!-- PROFILE VIEWS
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p> -->
 
 
 <!-- DESCRIPTION PROFILE -->
@@ -171,15 +157,27 @@ GENERATE        https://profile-readme-generator.com/result
   <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaMaster&theme=dark&show_icons=true)-->
 
+  ![Snake animation](https://github.com/RosaMaster/RosaMaster/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
+  <!--
   [![RosaMaster GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-dark-mode-only)
   [![RosaMaster GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RosaMaster&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-light-mode-only)
 
   [![RosaMaster Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&show_icons=true&layout=compact&langs_count=10&theme=gotham#gh-dark-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-dark-mode-only)
   [![RosaMaster Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMaster&show_icons=true&layout=compact&langs_count=10&theme=swift#gh-light-mode-only)](https://github.com/RosaMaster/github-readme-stats#gh-light-mode-only)
 
+  
+
   <a href="https://github.com/RosaMaster">
     <img width="72%" heigt="72%" src="https://streak-stats.demolab.com?user=rosamaster&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=258F76&ring=98D0CD&currStreakNum=98D0CD&fire=258F76&currStreakLabel=258F76&dates=258F76&sideNums=98D0CD&sideLabels=98D0CD&border=B8B8B9" alt="rosamaster" />
   </a>
+
+  -->
 </div>
 
 ---

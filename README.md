@@ -4,6 +4,7 @@ ICONS           https://github.com/get-icon/geticon
 INONS           https://simpleicons.org/?q=git+
 EMOJI           https://www.webfx.com/tools/emoji-cheat-sheet/
 ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
+GENERATE        https://profile-readme-generator.com/result
 -->
 
 
@@ -20,8 +21,44 @@ ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-<!-- PROFILE VIEWS 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>-->
+<div align="right">
+  <img src="https://profile-counter.glitch.me/RosaMaster/count.svg?" />
+</div>
+
+
+<img src="https://raw.githubusercontent.com/RosaMaster/RosaMaster/output/snake.svg" alt="Snake animation" />
+
+
+![Snake animation](https://github.com/RosaMaster/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/app/api/pin/?username=RosaMaster&repo=RosaMaster&theme=react)](https://github.com/RosaMaster/RosaMaster)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+
+<!-- PROFILE VIEWS -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p>
 
 
 <!-- DESCRIPTION PROFILE -->

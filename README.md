@@ -1,20 +1,10 @@
-<!-- LINKS 
-STACKS          https://github.com/Ileriayo/markdown-badges#badges
-ICONS           https://github.com/get-icon/geticon
-INONS           https://simpleicons.org/?q=git+
-EMOJI           https://www.webfx.com/tools/emoji-cheat-sheet/
-ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
-GENERATE        https://profile-readme-generator.com/result
--->
-
-
 <!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
 
 <!-- TITLE -->
 <h1 align="center" alt="title">
-  
+
     <head>    W  E  L  C  O  M  E    </head>
 
 </h1>
@@ -26,25 +16,7 @@ GENERATE        https://profile-readme-generator.com/result
 </div>
 
 
-
-<!--
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
--->
-
 <br>
-
-<!-- PROFILE VIEWS
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rosamaster&label=Profile%20views&color=0e75b6&style=flat" alt="profile_rosamaster" /> </p> -->
 
 
 <!-- DESCRIPTION PROFILE -->
@@ -56,16 +28,17 @@ GENERATE        https://profile-readme-generator.com/result
 >
 >
 >
-> | ♠ **TITLES**                                | ♠ **LOCAL**        | ♠ **Duration** |
-> | ------------------------------------------- | ------------------ | -------------- |
-> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            | 5 Years        |
-> | ² Bachelor Data Science                     | UNIVESP            | 4 Years        |
-> | ³ Bachelor in Information Technology        | UNIVESP            | 3 Years        |
-> | Mechatronics Technician                     | Centro Paula Souza | 2 Years        |
-> | System Developer Technician                 | Centro Paula Souza | 1,5 Years      |
+> | ♠ **TITLES**                                | ♠ **INSTITUIÇÃO**  |
+> | ------------------------------------------- | ------------------ |
+> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            |
+> | ² Bachelor Data Science                     | UNIVESP            |
+> | ³ Bachelor in Information Technology        | UNIVESP            |
+> | Mechatronics Technician                     | Centro Paula Souza |
+> | System Developer Technician                 | Centro Paula Souza |
 
 
 ## Badges
+<div align="center">
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -73,7 +46,7 @@ GENERATE        https://profile-readme-generator.com/result
 | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3208.png?tam=200" width=100 height=100></a>  | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python"><img src="https://brasilopenbadge.com.br/badge/3018.png?tam=200" width=100 height=100></a> | <a href="https://www.credly.com/badges/da7daa9d-2ccb-4abe-a6e8-7705ed860baa" alt="LLL"><img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=115 height=100></a> | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=465566726" width=100 height=100></a>  |
 | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100></a>  |  |
 
-<br>
+</div><br>
 
 <!-- GIF CONNECTING -->
 <div align="center">
@@ -139,18 +112,9 @@ GENERATE        https://profile-readme-generator.com/result
 
 ---
 <!-- DASHBOARDS -->
-<div align="center">
-  <br>
-
-
-  ![Snake animation](https://github.com/RosaMaster/RosaMaster/blob/output/github-contribution-grid-snake.svg)
-
-
+<div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
 </div>
 
 
@@ -160,11 +124,11 @@ GENERATE        https://profile-readme-generator.com/result
 ## **My Trophy**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rosamaster&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rosamaster&theme=dracula"/>
 </p>
 
 
 <!-- FOOTER -->
-|  |  |  |  |
+|     |     |     |     |
 | --- | --- | --- | --- |
 | <a href="https://www.instagram.com/rosa_x_master" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> | <a href = "mailto:rosa.master@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/eduardo-rosa-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/RosaMaster" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |

@@ -1,3 +1,12 @@
+<!-- LINKS 
+STACKS          https://github.com/Ileriayo/markdown-badges#badges
+ICONS           https://github.com/get-icon/geticon
+INONS           https://simpleicons.org/?q=git+
+EMOJI           https://www.webfx.com/tools/emoji-cheat-sheet/
+ESTATISTICAS    https://github.com/anuraghazra/github-readme-stats
+GENERATE        https://profile-readme-generator.com/result
+-->
+
 <!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
@@ -62,22 +71,31 @@
 
 
 <!-- Habilidades Principais-->
-### Main skills:
+### **📋 Languages and Tools:**
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![YAML](https://img.shields.io/badge/yaml-0D1117.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/c_%23-0D1117.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C-Sharp](https://img.shields.io/badge/-linguagem_c_sharp-0D1117?style=for-the-badge&logo=c-sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![LinguagemC](https://img.shields.io/badge/-linguagem_c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 <!-- OUTROS CONHECIMENTOS -->
-### Other Knowledge:
+### **Other Knowledge:**
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=f64a1d&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=e9b925)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=2fa4d5)&nbsp;
 
 
 <!-- FRAMEWORKS E BIBLIOTECAS -->
-### Frameworks & Library:
+### **📚 Frameworks, Platforms and Libraries:**
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-0D1117.svg?style=for-the-badge&logo=anaconda&logoColor=2344A833)&nbsp;
 ![Django](https://img.shields.io/badge/django-0D1117.svg?style=for-the-badge&logo=django&logoColor=23092E20)&nbsp;
@@ -86,14 +104,16 @@
 ![NumPy](https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
 
-<!-- PLATAFORMAS-->
-### Tools:
+<!-- IDEs -->
+### **💻 IDEs/Editors:**
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=3d2f76)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=23FA0F00)&nbsp;
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0D1117.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-0D1117.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=90E59A)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=green&color=0D1117&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=for-the-badge&logo=sublime-text&logoColor=23575757)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=db4128)&nbsp;
@@ -103,7 +123,8 @@
 
 
 <!-- BANCO DE DADOS -->
-### Database:
+### **💾 Databases:**
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-0D1117?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;

@@ -78,7 +78,6 @@ GENERATE        https://profile-readme-generator.com/result
 ![YAML](https://img.shields.io/badge/yaml-0D1117.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/c_%23-0D1117.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C-Sharp](https://img.shields.io/badge/-linguagem_c_sharp-0D1117?style=for-the-badge&logo=c-sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![LinguagemC](https://img.shields.io/badge/-linguagem_c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 

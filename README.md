@@ -55,7 +55,6 @@ GENERATE        https://profile-readme-generator.com/result
 | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3208.png?tam=200" width=100 height=100></a>  | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python"><img src="https://brasilopenbadge.com.br/badge/3018.png?tam=200" width=100 height=100></a> | <a href="https://www.credly.com/badges/da7daa9d-2ccb-4abe-a6e8-7705ed860baa" alt="LLL"><img src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width=100 height=100></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=115 height=100></a> | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=465566726" width=100 height=100></a>  |
 | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100></a>  | <a href="https://www.credly.com/badges/67c58fc4-f10f-4aca-b319-0f8659cf621c/public_url" alt="chaos_engineering_trained"> <img src="img/engenharia-do-caos-trained-pt-br.png"></a> | |
 
-
 </div><br>
 
 <!-- GIF CONNECTING -->

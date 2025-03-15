@@ -54,11 +54,12 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | <img src="img/doti_engenheiro_de_automacao.png" width=100 height=100> | <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=110></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023"><img src="img/oracle_foundation_associate_2023.png" width=120 height=110></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021"><img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=110 height=100></a> | <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="analytics"><img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=100 height=100></a> |
-| <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/privacy-champion.png" width=100 height=100></a>  | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="python"><img src="img/programacao-com-python-trained.png" width=100 height=100></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=115 height=100></a> | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/d-&-a-foundation.png" width=100 height=100></a>  | <a href="https://www.credly.com/badges/67c58fc4-f10f-4aca-b319-0f8659cf621c/public_url" alt="chaos_engineering_trained"> <img src="img/engenharia-do-caos-trained-pt-br.png" width=100 height=100></a> |
-| <a href="https://www.credly.com/badges/67bd8fdb-2b4c-4371-88d6-7676de7a45cf/public_url" alt="chaos_engineering_expert"> <img src="img/engenharia-do-caos-expert-pt-br.png" width=100 height=100></a> | <a href="https://brasilopenbadge.com.br/pages/profile/eduardo-rosa-da-silva" alt="privacy"><img src="img/badge_Oracle_Cloud_Basic.png" width=95 height=100></a>  |  |
+| <a href="https://www.credly.com/badges/6b6aeecc-48bb-4d18-9e81-408a82ed8750/public_url" alt="privacy"><img src="img/privacy-champion.png" width=100 height=100></a>  | <a href="https://www.credly.com/badges/84823d10-de7d-417e-b553-aa3702dbb280/public_url" alt="python"><img src="img/programacao-com-python-trained.png" width=100 height=100></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=115 height=100></a> | <a href="https://www.credly.com/badges/15e6e6dd-cf71-4c36-afb7-b80d43f96e51/public_url" alt="privacy"><img src="img/d-&-a-foundation.png" width=100 height=100></a>  | <a href="https://www.credly.com/badges/67c58fc4-f10f-4aca-b319-0f8659cf621c/public_url" alt="chaos_engineering_trained"> <img src="img/engenharia-do-caos-trained-pt-br.png" width=100 height=100></a> |
+| <a href="https://www.credly.com/badges/67bd8fdb-2b4c-4371-88d6-7676de7a45cf/public_url" alt="chaos_engineering_expert"> <img src="img/engenharia-do-caos-expert-pt-br.png" width=100 height=100></a> |  |
 
 </div>
 
+<br><br>
 
 <!-- Habilidades Principais-->
 ### **📋 Languages and Tools:**
@@ -70,6 +71,7 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 ![C#](https://img.shields.io/badge/c_%23-0D1117.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![LinguagemC](https://img.shields.io/badge/-linguagem_c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+<br>
 
 <!-- OUTROS CONHECIMENTOS -->
 ### **Other Knowledge:**
@@ -77,6 +79,7 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=e9b925)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=2fa4d5)&nbsp;
 
+<br>
 
 <!-- FRAMEWORKS E BIBLIOTECAS -->
 ### **📚 Frameworks, Platforms and Libraries:**
@@ -92,6 +95,7 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 ![Pandas](https://img.shields.io/badge/pandas-0D1117.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
+<br>
 
 <!-- IDEs -->
 ### **💻 IDEs/Editors:**
@@ -110,6 +114,7 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 ![Trello](https://img.shields.io/badge/Trello-0D1117.svg?style=for-the-badge&logo=Trello&logoColor=0075b9)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-0D1117.svg?style=for-the-badge&logo=jira&logoColor=2580f7)&nbsp;
 
+<br>
 
 <!-- BANCO DE DADOS -->
 ### **💾 Databases:**
@@ -119,14 +124,15 @@ Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+<br>
 
 ---
+
 <!-- DASHBOARDS -->
 <div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ---
 

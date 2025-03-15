@@ -12,38 +12,41 @@ GENERATE        https://profile-readme-generator.com/result
 
 
 <!-- TITLE -->
-<h1 align="center" alt="title">
+<div align="center">
+  <h1 align="center" alt="title">
 
-    <head>    W  E  L  C  O  M  E    </head>
+      <head>    W  E  L  C  O  M  E    </head>
 
-</h1>
+  </h1>
+</div>
 
 <div align="right">
   <img src="https://profile-counter.glitch.me/RosaMaster/count.svg?" />
 </div>
 
 <br>
+<br>
 
 <div align="center">
 
 <!-- DESCRIPTION PROFILE -->
-> Hello, I'm Eduardo Rosa, I'm **developer** Back-end from  Brazil
->
-> 🔰 🔰 🔰 Beginning of this journey in programming: **Junho/2021** 🔰 🔰 🔰
->
-> 💥 💥 💥 **Web Designer** | **Tech Writer** | **Data Analyst** | **DEV**💥 💥 💥
->
->
->
-> | ♠ **TITLES**                                | ♠ **INSTITUIÇÃO**  |
-> | ------------------------------------------- | ------------------ |
-> | ¹ Bachelor Engeneer Production & Automation | UNIVESP            |
-> | ² Bachelor Data Science                     | UNIVESP            |
-> | ³ Bachelor in Information Technology        | UNIVESP            |
-> | Mechatronics Technician                     | Centro Paula Souza |
-> | System Developer Technician                 | Centro Paula Souza |
+Hello, I'm Eduardo Rosa, I'm developer Back-end from  Brazil
+
+🔰 🔰 🔰 Beginning of this journey in programming: **Junho/2021** 🔰 🔰 🔰
+
+💥 💥 💥 **Web Designer** | **Tech Writer** | **Data Analyst** | **DEV**💥 💥 💥
+
+| ♠ **TITLES**                                | ♠ **INSTITUIÇÃO**  |
+| ------------------------------------------- | ------------------ |
+| ¹ Bachelor Engeneer Production & Automation | UNIVESP            |
+| ² Bachelor Data Science                     | UNIVESP            |
+| ³ Bachelor in Information Technology        | UNIVESP            |
+| Mechatronics Technician                     | Centro Paula Souza |
+| System Developer Technician                 | Centro Paula Souza |
 
 </div>
+
+<br>
 
 ## Badges
 <div align="center">

@@ -37,23 +37,27 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 | ³ Bachelor Data Science                     | UNIVESP - `2026`                        |
 | Mechatronics Technician                     | Centro Paula Souza - `2011`             |
 | System Developer Technician                 | Centro Paula Souza - `2022`             |
+</div>
 
 <div align="left">
 
 ### **INDEX**
 
-- [**BADGES**](#badges)
+- [**BADGES**](#-badges)
 - [**KEY SKILLS**](#️-key-skills)
 - [**AWS SERVICES**](#️-aws-services)
 - [**LANGUAGES AND TOOLS**](#-languages-and-tools)
 - [**DATABASES**](#-databases)
 - [**FRAMEWORKS, PLATFORMS AND LIBRARIES**](#-frameworks-platforms-and-libraries)
 - [**IDES/EDITORS**](#-ideseditors)
-- [**MY TROPHY**](#my-trophy)
+- [**SOCIAL**](#-social)
+
+</div>
 
 <br>
 
-### **BADGES**
+### **🌀 BADGES**
+
 <div align="center">
 
 |     |     |     |     |     |     |
@@ -63,7 +67,7 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 
 </div>
 
-<br><br>
+<br>
 
 <!-- Habilidades Principais -->
 ### **🗝️ KEY SKILLS:**
@@ -145,30 +149,14 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 ![Jira](https://img.shields.io/badge/jira-0D1117.svg?style=plastic&logo=jira&logoColor=2580f7)&nbsp;
 
 ---
-
-<div align="center"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RosaMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-<!-- MY TROPHY -->
-### **MY TROPHY**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rosamaster&theme=dracula"/>
-</p>
-
----
-
 <!-- FOOTER -->
-<br>
+### **⚡ SOCIAL:**
+
 <div align="left">
   <table>
     <tr>
       <td>
-        <a href="https://rosamaster.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio_github.io-black?style=plastic&logo=github&logoColor=white" target="_blank"></a>
+        <a href="https://rosamaster.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio_github.io-0D1117?style=plastic&logo=github&logoColor=white" target="_blank"></a>
       </td>
       <td>
         <a href="https://www.instagram.com/silva.eduardor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
@@ -179,5 +167,7 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
     </tr>
   </table>
 </div>
+
+---
 
 ⤴️ [**HOME PAGE**](#profile)

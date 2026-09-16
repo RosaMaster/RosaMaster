@@ -62,8 +62,8 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| <img src="img/doti_engenheiro_de_automacao.png" width=50 height=50> | <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=60 height=55></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=30CE124354E6F3158EC6A17B10D5D12698A6F8F6F0E6D454A62ED8CBA1E1A9C7" alt="oracle_cloud_2023"><img src="img/oracle_foundation_associate_2023.png" width=60 height=55></a> | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEF47AECF993B4B50DA791CF3D4BE0F74F9600598D8B123490F38FDCB416DD80" alt="oracle_cloud_2021"><img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=55 height=50></a> | <a href="https://skillshop.exceedlms.com/profiles/a813263962ac45d3a3ebdbce7bb7b64c" alt="analytics"><img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=50 height=50></a> | <a href="https://www.credly.com/badges/6b6aeecc-48bb-4d18-9e81-408a82ed8750/public_url" alt="privacy"><img src="img/privacy-champion.png" width=50 height=50></a> |
-| <a href="https://www.credly.com/badges/84823d10-de7d-417e-b553-aa3702dbb280/public_url" alt="python"><img src="img/programacao-com-python-trained.png" width=50 height=50></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=57 height=50></a> | <a href="https://www.credly.com/badges/15e6e6dd-cf71-4c36-afb7-b80d43f96e51/public_url" alt="privacy"><img src="img/d-&-a-foundation.png" width=50 height=50></a>  | <a href="https://www.credly.com/badges/67c58fc4-f10f-4aca-b319-0f8659cf621c/public_url" alt="chaos_engineering_trained"> <img src="img/engenharia-do-caos-trained-pt-br.png" width=50 height=50></a> | <a href="https://www.credly.com/badges/67bd8fdb-2b4c-4371-88d6-7676de7a45cf/public_url" alt="chaos_engineering_expert"> <img src="img/engenharia-do-caos-expert-pt-br.png" width=50 height=50></a> |
+| <a href="https://www.credly.com/badges/a095011d-7c0f-49a3-9fba-2fa0e6910c4a" alt="aws_cloud_practitioner"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=60 height=55></a> | <a href="https://www.credly.com/badges/0f2e1521-7ecf-4324-b547-c59253abddd3/public_url" alt="aws_"><img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width=70 height=60></a>  | <img src="img/doti_engenheiro_de_automacao.png" width=50 height=50> | <a href="https://www.credly.com/badges/6b6aeecc-48bb-4d18-9e81-408a82ed8750/public_url" alt="privacy"><img src="img/privacy-champion.png" width=50 height=50></a> | <a href="https://www.credly.com/badges/84823d10-de7d-417e-b553-aa3702dbb280/public_url" alt="python"><img src="img/programacao-com-python-trained.png" width=50 height=50></a> |  |
+| <a href="https://www.credly.com/badges/15e6e6dd-cf71-4c36-afb7-b80d43f96e51/public_url" alt="privacy"><img src="https://images.credly.com/size/680x680/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png" width=50 height=50></a>  | <a href="https://www.credly.com/badges/67c58fc4-f10f-4aca-b319-0f8659cf621c/public_url" alt="chaos_engineering_trained"> <img src="https://images.credly.com/size/680x680/images/aed5fecc-f17d-49dc-915a-a579a31f72f7/blob" width=50 height=50></a> | <a href="https://www.credly.com/badges/67bd8fdb-2b4c-4371-88d6-7676de7a45cf/public_url" alt="chaos_engineering_expert"> <img src="https://images.credly.com/size/680x680/images/0109a339-5981-4401-80f5-50f49fcc96e2/blob" width=50 height=50></a> | <a href="https://www.credly.com/badges/7fe8ef1e-249c-4ebd-8263-69eaf7eeb6b9/public_url" alt="mainframe_z_xplore"> <img src="img/ibm-z-xplore-concepts.png" width=57 height=50></a> |
 
 </div>
 
@@ -91,7 +91,6 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 ![AWS DYNAMODB](https://img.shields.io/badge/AWS-DynamoDB-4053D6.svg?style=plastic&logo=amazon-aws&logoColor=white)&nbsp;
 ![AWS RDS](https://img.shields.io/badge/AWS-RDS-blue?style=plastic&logo=amazon-aws&logoColor=white)&nbsp;
 
-
 <!-- Linguagens e outras ferramentas -->
 ### **📋 LANGUAGES AND TOOLS:**
 
@@ -112,23 +111,22 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 ![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=plastic&logo=mariadb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=plastic&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=plastic&logo=mongodb&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/ORACLE-F80000?plastic&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-0D1117?plastic&logo=oracle&logoColor=white)
 
 <!-- FRAMEWORKS E BIBLIOTECAS -->
 ### **📚 FRAMEWORKS, PLATFORMS AND LIBRARIES:**
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=plastic&logo=Hugo)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)&nbsp;
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=plastic&logo=Hugo)&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=plastic&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-0D1117.svg?style=plastic&logo=anaconda&logoColor=2344A833)&nbsp;
 ![Django](https://img.shields.io/badge/django-0D1117.svg?style=plastic&logo=django&logoColor=23092E20)&nbsp;
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-0D1117?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=0D1117)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-0D1117.svg?style=plastic&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-0D1117.svg?style=plastic&logo=numpy&logoColor=white)&nbsp;
-
 
 <!-- IDEs -->
 ### **💻 IDES/EDITORS:**
@@ -140,7 +138,7 @@ Hello, my name is __Eduardo Rosa__. I'm developer back-end from  Brazil
 ![Notepad++](https://img.shields.io/badge/Notepad++-0D1117.svg?style=plastic&logo=notepad%2b%2b&logoColor=90E59A)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=plastic&logo=pycharm&logoColor=green&color=0D1117&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=plastic&logo=sublime-text&logoColor=23575757)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=plastic&logo=github&labelColor=0D1117)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=db4128)&nbsp;
